@@ -1,6 +1,6 @@
 # BadgeGrabber
 
-##v0.1
+##v0.2
 
 A javascript function for finding assertions and handling them with a callback
 

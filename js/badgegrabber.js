@@ -1,3 +1,8 @@
+/**
+ * BadgeGrabber v0.2 | MIT
+ * Author: James Mullaney
+ */
+
 var BadgeGrabber =  ( typeof BadgeGrabber === 'undefined' ) ? {} : BadgeGrabber;
 
 /**
