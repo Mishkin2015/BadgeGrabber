@@ -27,7 +27,8 @@ $(document).ready( function(){
 
 			$badges.append( $badgeCont );
 		}, 
-		function(){ 
+		function( errors ){
+			//return an array of arrays containing the assertion URL and browser error
 			$badges.find('.loading').remove(); 
 		}
 	);
